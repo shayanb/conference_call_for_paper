@@ -1,5 +1,5 @@
 ## 2018-2019 International Conferences in Blockchain, Decentral technologies and Cryptocurrencies (Cryptoeconomic, social aspects, etc...)
-
+This is a repository to list the conferences and journals for Blockchain technology related publications.
 
 -----------------------------------------------
 To see the list of conferences click here:
